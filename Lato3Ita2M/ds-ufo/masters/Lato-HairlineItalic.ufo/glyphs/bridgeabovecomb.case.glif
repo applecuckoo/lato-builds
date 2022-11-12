@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bridgeabovecomb.case" format="2">
+  <guideline x="53" y="0" angle="82.9991"/>
+  <anchor x="61" y="1837" name="top"/>
+  <anchor x="0" y="1385" name="_Top"/>
+  <outline>
+    <contour>
+      <point x="248.391" y="1442" type="line"/>
+      <point x="266.391" y="1442" type="line"/>
+      <point x="292.391" y="1650" type="line"/>
+      <point x="274.391" y="1650" type="line"/>
+    </contour>
+    <contour>
+      <point x="-235.609" y="1632" type="line"/>
+      <point x="290.391" y="1632" type="line"/>
+      <point x="292.391" y="1650" type="line"/>
+      <point x="-233.609" y="1650" type="line"/>
+    </contour>
+    <contour>
+      <point x="-258.609" y="1442" type="line"/>
+      <point x="-240.609" y="1442" type="line"/>
+      <point x="-215.609" y="1650" type="line"/>
+      <point x="-233.609" y="1650" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>note</key>
+      <string>_bridgebelow=bridgeabovecomb.case</string>
+      <key>public.markColor</key>
+      <string>1,0.6,0.994,0</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="f_lcaron" format="2">
+  <advance width="1182.146"/>
+  <guideline x="656.24" y="0.0" angle="82.9991"/>
+  <anchor x="1006.922" y="1515.314" name="Top"/>
+  <anchor x="1229.91358" y="1652.0" name="top"/>
+  <anchor x="466.928" y="-421.0" name="bottom"/>
+  <outline>
+    <component base="fl"/>
+    <component base="commaaboverightcomb" xScale="0.8002" xOffset="1229.91358"/>
+  </outline>
+</glyph>
